@@ -1,5 +1,6 @@
-package com.test.demo;
+package com.lld.bms;
 
+import com.lld.bms.models.BaseModel;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
